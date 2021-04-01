@@ -1,2 +1,6 @@
 # API Key file
 /code/api_key/
+
+# Jupyter lab
+/code/.ipynb_checkpoints/
+.DS_Store
