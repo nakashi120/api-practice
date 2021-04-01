@@ -3,4 +3,4 @@
 
 # Jupyter lab
 /code/.ipynb_checkpoints/
-.DS_Store
+/code/.DS_Store
